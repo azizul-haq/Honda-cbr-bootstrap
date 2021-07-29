@@ -1,0 +1,18 @@
+/* Google Font link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/*--------------------------
+ All CSS Custom Class 
+---------------------------*/
+
+/* Background Classes */
+.main-bg{
+    background-color: #264653;
+}
+.main-bg-50{
+    background-color: #26465391;
+}
